@@ -1,0 +1,11 @@
+c:\users\andym\onedrive\documents\visual studio 2015\Projects\ConnectLocalData\ConnectLocalData\bin\Debug\ConnectLocalData.exe.config
+c:\users\andym\onedrive\documents\visual studio 2015\Projects\ConnectLocalData\ConnectLocalData\bin\Debug\SampleDatabase.mdf
+c:\users\andym\onedrive\documents\visual studio 2015\Projects\ConnectLocalData\ConnectLocalData\bin\Debug\SampleDatabase_log.ldf
+c:\users\andym\onedrive\documents\visual studio 2015\Projects\ConnectLocalData\ConnectLocalData\bin\Debug\ConnectLocalData.exe
+c:\users\andym\onedrive\documents\visual studio 2015\Projects\ConnectLocalData\ConnectLocalData\bin\Debug\ConnectLocalData.pdb
+c:\users\andym\onedrive\documents\visual studio 2015\Projects\ConnectLocalData\ConnectLocalData\obj\Debug\ConnectLocalData.csprojResolveAssemblyReference.cache
+c:\users\andym\onedrive\documents\visual studio 2015\Projects\ConnectLocalData\ConnectLocalData\obj\Debug\ConnectLocalData.Form1.resources
+c:\users\andym\onedrive\documents\visual studio 2015\Projects\ConnectLocalData\ConnectLocalData\obj\Debug\ConnectLocalData.Properties.Resources.resources
+c:\users\andym\onedrive\documents\visual studio 2015\Projects\ConnectLocalData\ConnectLocalData\obj\Debug\ConnectLocalData.csproj.GenerateResource.Cache
+c:\users\andym\onedrive\documents\visual studio 2015\Projects\ConnectLocalData\ConnectLocalData\obj\Debug\ConnectLocalData.exe
+c:\users\andym\onedrive\documents\visual studio 2015\Projects\ConnectLocalData\ConnectLocalData\obj\Debug\ConnectLocalData.pdb
